@@ -9,7 +9,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class WheelsForceGroups {
     public static final DeferredRegister<ForceGroup> FORCE_GROUPS =
-            DeferredRegister.create(ForceGroups.REGISTRY_KEY, MacenumWheelsMod.MODID);
+            DeferredRegister.create(ForceGroups.REGISTRY_KEY, MecanumWheelsMod.MODID);
 
     public static final DeferredHolder<ForceGroup, ForceGroup> MECANUM_FORCES;
     

@@ -4,9 +4,7 @@
   "package": "com.suting.mecanumwheels.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "OffroadCommonEventsMixin",
     "OffroadItemsMixin",
-    "OffroadMixin",
     "WheelMountBlockEntityMixin"
   ],
   "injectors": {

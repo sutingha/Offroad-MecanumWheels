@@ -1,6 +1,6 @@
 package com.suting.mecanumwheels.physics;
 
-import com.suting.mecanumwheels.MacenumConfig;
+import com.suting.mecanumwheels.MecanumConfig;
 import dev.ryanhcode.sable.physics.config.dimension_physics.DimensionPhysicsData;
 import dev.ryanhcode.sable.sublevel.ServerSubLevel;
 import org.joml.Vector3d;
@@ -65,7 +65,7 @@ public final class Physics {
         return ctx.toPhysicsForces();
     }
 
-    /// 麦克纳姆轮主动推力（恒定模型）
+    ///麦克纳姆轮主动推力（恒定模型）
     ///
     ///   正向力 = fam × 归一化转速 × sign(wheelSpeed) × 滚动方向
     ///   侧向力 = side × 归一化转速 × sign(wheelSpeed) × rollerSign × 轮轴方向
@@ -79,8 +79,8 @@ public final class Physics {
         double absSpeed = Math.abs(wheelSpeed);
         if (absSpeed <= MIN_ROLL_SPEED) return;
 
-        double famCoef = MacenumConfig.FAM.get();
-        double sideCoef = MacenumConfig.SIDE.get();
+        double famCoef = MecanumConfig.FAM.get();
+        double sideCoef = MecanumConfig.SIDE.get();
         boolean famEnabled = Double.isFinite(famCoef) && famCoef > 0.0;
         boolean sideEnabled = Double.isFinite(sideCoef) && sideCoef > 0.0;
         if (!famEnabled && !sideEnabled) return;
@@ -125,7 +125,7 @@ public final class Physics {
             return;
         }
 
-        double rollingCoef = MacenumConfig.ROLL.get();
+        double rollingCoef = MecanumConfig.ROLL.get();
         if (!Double.isFinite(rollingCoef) || rollingCoef <= 0.0) {
             return;
         }

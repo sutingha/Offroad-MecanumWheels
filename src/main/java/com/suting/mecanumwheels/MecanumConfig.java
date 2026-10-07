@@ -2,7 +2,7 @@ package com.suting.mecanumwheels;
 
 import net.neoforged.neoforge.common.ModConfigSpec;
 
-public class MacenumConfig {
+public class MecanumConfig {
 
     private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();
 
