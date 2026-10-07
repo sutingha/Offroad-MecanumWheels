@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "item": "create:shaft" },
+    "T": { "item": "offroad:large_tire" }
+  },
+  "pattern": [
+    " S ",
+    "STS",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "offroad:mecanum_wheel_large_ccw"
+  }
+}

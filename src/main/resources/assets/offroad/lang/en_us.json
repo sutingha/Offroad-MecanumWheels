@@ -1,0 +1,42 @@
+{
+  "item.offroad.mecanum_wheel_small_cw": "Small Mecanum Wheel",
+  "item.offroad.mecanum_wheel_cw": "Mecanum Wheel",
+  "item.offroad.mecanum_wheel_large_cw": "Large Mecanum Wheel",
+  "item.offroad.mecanum_wheel_monstrous_cw": "Monstrous Mecanum Wheel",
+  "item.offroad.mecanum_wheel_small_ccw": "Mirrored Small Mecanum Wheel",
+  "item.offroad.mecanum_wheel_ccw": "Mirrored Mecanum Wheel",
+  "item.offroad.mecanum_wheel_large_ccw": "Mirrored Large Mecanum Wheel",
+  "item.offroad.mecanum_wheel_monstrous_ccw": "Mirrored Monstrous Mecanum Wheel",
+
+  "item.offroad.mecanum_wheel_small_cw.tooltip.summary": "A _compact omnidirectional_ wheel for tight builds.",
+  "item.offroad.mecanum_wheel_small_cw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_small_cw.tooltip.condition1": "When right-clicked on a Wheel Mount",
+
+  "item.offroad.mecanum_wheel_cw.tooltip.summary": "A standard _omnidirectional_ wheel.",
+  "item.offroad.mecanum_wheel_cw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_cw.tooltip.condition1": "When right-clicked on a Wheel Mount",
+
+  "item.offroad.mecanum_wheel_large_cw.tooltip.summary": "A large _omnidirectional all-terrain_ wheel.",
+  "item.offroad.mecanum_wheel_large_cw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_large_cw.tooltip.condition1": "When right-clicked on a Wheel Mount",
+
+  "item.offroad.mecanum_wheel_monstrous_cw.tooltip.summary": "A monstrously large _omnidirectional all-terrain_ wheel.",
+  "item.offroad.mecanum_wheel_monstrous_cw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_monstrous_cw.tooltip.condition1": "When right-clicked on a Wheel Mount",
+
+  "item.offroad.mecanum_wheel_small_ccw.tooltip.summary": "A _compact omnidirectional_ wheel. Rollers face _the opposite direction_.",
+  "item.offroad.mecanum_wheel_small_ccw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_small_ccw.tooltip.condition1": "When right-clicked on a Wheel Mount",
+
+  "item.offroad.mecanum_wheel_ccw.tooltip.summary": "A standard _omnidirectional_ wheel. Rollers face _the opposite direction_.",
+  "item.offroad.mecanum_wheel_ccw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_ccw.tooltip.condition1": "When right-clicked on a Wheel Mount",
+
+  "item.offroad.mecanum_wheel_large_ccw.tooltip.summary": "A large _omnidirectional all-terrain_ wheel. Rollers face _the opposite direction_.",
+  "item.offroad.mecanum_wheel_large_ccw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_large_ccw.tooltip.condition1": "When right-clicked on a Wheel Mount",
+
+  "item.offroad.mecanum_wheel_monstrous_ccw.tooltip.summary": "A monstrously large _omnidirectional all-terrain_ wheel. Rollers face _the opposite direction_.",
+  "item.offroad.mecanum_wheel_monstrous_ccw.tooltip.behaviour1": "_Assembles_ onto a suspension.",
+  "item.offroad.mecanum_wheel_monstrous_ccw.tooltip.condition1": "When right-clicked on a Wheel Mount"
+}

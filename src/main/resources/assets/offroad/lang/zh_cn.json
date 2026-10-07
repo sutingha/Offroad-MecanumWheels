@@ -1,0 +1,42 @@
+{
+  "item.offroad.mecanum_wheel_small_cw": "小型麦克纳姆轮",
+  "item.offroad.mecanum_wheel_cw": "麦克纳姆轮",
+  "item.offroad.mecanum_wheel_large_cw": "大型麦克纳姆轮",
+  "item.offroad.mecanum_wheel_monstrous_cw": "巨型麦克纳姆轮",
+  "item.offroad.mecanum_wheel_small_ccw": "镜像·小型麦克纳姆轮",
+  "item.offroad.mecanum_wheel_ccw": "镜像·麦克纳姆轮",
+  "item.offroad.mecanum_wheel_large_ccw": "镜像·大型麦克纳姆轮",
+  "item.offroad.mecanum_wheel_monstrous_ccw": "镜像·巨型麦克纳姆轮",
+
+  "item.offroad.mecanum_wheel_small_cw.tooltip.summary": "紧凑的_全向轮_，适合狭小结构。",
+  "item.offroad.mecanum_wheel_small_cw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_small_cw.tooltip.condition1": "对车轮悬架右击时",
+
+  "item.offroad.mecanum_wheel_cw.tooltip.summary": "标准的_全向轮_。",
+  "item.offroad.mecanum_wheel_cw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_cw.tooltip.condition1": "对车轮悬架右击时",
+
+  "item.offroad.mecanum_wheel_large_cw.tooltip.summary": "大型的_全向全地形_轮。",
+  "item.offroad.mecanum_wheel_large_cw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_large_cw.tooltip.condition1": "对车轮悬架右击时",
+
+  "item.offroad.mecanum_wheel_monstrous_cw.tooltip.summary": "巨型的_全向全地形_轮。",
+  "item.offroad.mecanum_wheel_monstrous_cw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_monstrous_cw.tooltip.condition1": "对车轮悬架右击时",
+
+  "item.offroad.mecanum_wheel_small_ccw.tooltip.summary": "紧凑的_全向轮_。辊子朝向_与普通款相反_。",
+  "item.offroad.mecanum_wheel_small_ccw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_small_ccw.tooltip.condition1": "对车轮悬架右击时",
+
+  "item.offroad.mecanum_wheel_ccw.tooltip.summary": "标准的_全向轮_。辊子朝向_与普通款相反_。",
+  "item.offroad.mecanum_wheel_ccw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_ccw.tooltip.condition1": "对车轮悬架右击时",
+
+  "item.offroad.mecanum_wheel_large_ccw.tooltip.summary": "大型的_全向全地形_轮。辊子朝向_与普通款相反_。",
+  "item.offroad.mecanum_wheel_large_ccw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_large_ccw.tooltip.condition1": "对车轮悬架右击时",
+
+  "item.offroad.mecanum_wheel_monstrous_ccw.tooltip.summary": "巨型的_全向全地形_轮。辊子朝向_与普通款相反_。",
+  "item.offroad.mecanum_wheel_monstrous_ccw.tooltip.behaviour1": "将其_组装_到悬挂上。",
+  "item.offroad.mecanum_wheel_monstrous_ccw.tooltip.condition1": "对车轮悬架右击时"
+}
