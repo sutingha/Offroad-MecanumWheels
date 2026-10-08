@@ -17,6 +17,8 @@ Features
 - In-game config via `/mecanum config`
   -添加了”/mecamum config 力组 操作方式 值“作为对麦轮力配置的指令，
   显然越野学原版对侧向力进行了大削，所以你可以试着把side改到0.6
+- Converting between CW and CCW: put a Mecanum wheel in any crafting grid
+  -两个镜像的麦轮现在可以相互合成转换了（来自@MaveTheMaverick的提议）
 
 Dependencies
 -------

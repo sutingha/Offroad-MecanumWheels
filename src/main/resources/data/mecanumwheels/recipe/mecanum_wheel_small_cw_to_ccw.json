@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "offroad:mecanum_wheel_small_cw" }
+  ],
+  "result": {
+    "count": 1,
+    "id": "offroad:mecanum_wheel_small_ccw"
+  }
+}
